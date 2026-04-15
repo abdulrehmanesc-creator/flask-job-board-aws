@@ -58,7 +58,7 @@ python app.py
 
 ### 4. Open in Your Browser
 ```
-http://127.0.0.1:5000
+http://51.21.221.253/
 ```
 
 ---
